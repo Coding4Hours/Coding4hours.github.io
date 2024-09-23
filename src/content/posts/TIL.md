@@ -1,7 +1,8 @@
 ---
 title: TIL
 published: 2024-07-07
-image: ''
+category: "Tech"
+tags: ["Code Snippets"]
 draft: false 
 ---
 

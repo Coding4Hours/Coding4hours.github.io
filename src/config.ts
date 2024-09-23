@@ -46,15 +46,13 @@ export const navBarConfig: NavBarConfig = {
 }
 
 export const profileConfig: ProfileConfig = {
-  avatar: 'assets/images/coding4hours.png',  // Relative to the /src directory. Relative to the /public directory if it starts with '/'
+  avatar: 'assets/images/coding4hours.webp',  // Relative to the /src directory. Relative to the /public directory if it starts with '/'
   name: 'Coding4Hours',
   bio: 'A wannabe hacker and developer',
   links: [
     {
       name: 'Discord',
-      icon: 'fa6-brands:discord',       // Visit https://icones.js.org/ for icon codes
-                                        // You will need to install the corresponding icon set if it's not already included
-                                        // `pnpm add @iconify-json/<icon-set-name>`
+      icon: 'fa6-brands:discord',
       url: 'https://discordapp.com/users/1208197331439063051',
     },
     {

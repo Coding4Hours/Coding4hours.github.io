@@ -1,11 +1,11 @@
 ---
 title: Welcome to my Blog
 published: 2024-07-06
-category: first_post
+tag: First post
 draft: false
 ---
 
-# Welcome
+## Welcome
 
 **Hello world**, this is my first blog post.
 
